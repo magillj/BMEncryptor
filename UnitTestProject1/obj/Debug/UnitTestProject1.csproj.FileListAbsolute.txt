@@ -1,0 +1,14 @@
+C:\Users\t-jamagi\Documents\Visual Studio 2012\Projects\BMEncryptor\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\t-jamagi\Documents\Visual Studio 2012\Projects\BMEncryptor\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\t-jamagi\Documents\Visual Studio 2012\Projects\BMEncryptor\UnitTestProject1\bin\Debug\BMEncryptor.exe
+C:\Users\t-jamagi\Documents\Visual Studio 2012\Projects\BMEncryptor\UnitTestProject1\bin\Debug\BMEncryptor.pdb
+C:\Users\t-jamagi\Documents\Visual Studio 2012\Projects\BMEncryptor\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\t-jamagi\Documents\Visual Studio 2012\Projects\BMEncryptor\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\t-jamagi\Documents\Visual Studio 2012\Projects\BMEncryptor\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\BMEncryptor\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\BMEncryptor\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\BMEncryptor\UnitTestProject1\bin\Debug\BMEncryptor.exe
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\BMEncryptor\UnitTestProject1\bin\Debug\BMEncryptor.pdb
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\BMEncryptor\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\BMEncryptor\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\BMEncryptor\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
