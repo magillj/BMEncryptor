@@ -1,0 +1,7 @@
+C:\Users\Jake\Documents\GitHub\BMEncryptor\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Jake\Documents\GitHub\BMEncryptor\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Jake\Documents\GitHub\BMEncryptor\UnitTestProject1\bin\Debug\BMEncryptor.exe
+C:\Users\Jake\Documents\GitHub\BMEncryptor\UnitTestProject1\bin\Debug\BMEncryptor.pdb
+C:\Users\Jake\Documents\GitHub\BMEncryptor\UnitTestProject1\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Jake\Documents\GitHub\BMEncryptor\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Jake\Documents\GitHub\BMEncryptor\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
