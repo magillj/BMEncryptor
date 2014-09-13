@@ -2,7 +2,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using BMEncryptor;
 
-namespace UnitTestProject1
+namespace BMEncryptorUnitTests
 {
     [TestClass]
     public class BinaryConverterTests
